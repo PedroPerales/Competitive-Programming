@@ -28,3 +28,8 @@ Modular arithmatics - Modular operations, binary exponentiation
 Stack, queue and dequeue
 Prefix sum 1D and 2D
 Graphs - BFS in graph and grid
+Recursion
+See next two contest, good to practice backtracking
+https://codeforces.com/group/gA8A93jony/contest/269931
+https://codeforces.com/group/gA8A93jony/contest/270592
+
